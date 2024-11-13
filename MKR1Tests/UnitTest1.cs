@@ -67,3 +67,4 @@ public class ProgramTests
         Assert.Equal(2, result); // Дільники: 1, 997 (просте число)
     }
 }
+
