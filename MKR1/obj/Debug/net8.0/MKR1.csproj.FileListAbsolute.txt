@@ -1,0 +1,15 @@
+C:\Users\yurka\OneDrive\Рабочий стол\MKR1\MKR1\MKR1\bin\Debug\net8.0\MKR1.exe
+C:\Users\yurka\OneDrive\Рабочий стол\MKR1\MKR1\MKR1\bin\Debug\net8.0\MKR1.deps.json
+C:\Users\yurka\OneDrive\Рабочий стол\MKR1\MKR1\MKR1\bin\Debug\net8.0\MKR1.runtimeconfig.json
+C:\Users\yurka\OneDrive\Рабочий стол\MKR1\MKR1\MKR1\bin\Debug\net8.0\MKR1.dll
+C:\Users\yurka\OneDrive\Рабочий стол\MKR1\MKR1\MKR1\bin\Debug\net8.0\MKR1.pdb
+C:\Users\yurka\OneDrive\Рабочий стол\MKR1\MKR1\MKR1\obj\Debug\net8.0\MKR1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yurka\OneDrive\Рабочий стол\MKR1\MKR1\MKR1\obj\Debug\net8.0\MKR1.AssemblyInfoInputs.cache
+C:\Users\yurka\OneDrive\Рабочий стол\MKR1\MKR1\MKR1\obj\Debug\net8.0\MKR1.AssemblyInfo.cs
+C:\Users\yurka\OneDrive\Рабочий стол\MKR1\MKR1\MKR1\obj\Debug\net8.0\MKR1.csproj.CoreCompileInputs.cache
+C:\Users\yurka\OneDrive\Рабочий стол\MKR1\MKR1\MKR1\obj\Debug\net8.0\MKR1.sourcelink.json
+C:\Users\yurka\OneDrive\Рабочий стол\MKR1\MKR1\MKR1\obj\Debug\net8.0\MKR1.dll
+C:\Users\yurka\OneDrive\Рабочий стол\MKR1\MKR1\MKR1\obj\Debug\net8.0\refint\MKR1.dll
+C:\Users\yurka\OneDrive\Рабочий стол\MKR1\MKR1\MKR1\obj\Debug\net8.0\MKR1.pdb
+C:\Users\yurka\OneDrive\Рабочий стол\MKR1\MKR1\MKR1\obj\Debug\net8.0\MKR1.genruntimeconfig.cache
+C:\Users\yurka\OneDrive\Рабочий стол\MKR1\MKR1\MKR1\obj\Debug\net8.0\ref\MKR1.dll
