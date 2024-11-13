@@ -1,0 +1,34 @@
+# Exclude build directories
+bin/
+obj/
+
+# Ignore NuGet package files and directories
+*.nupkg
+packages/
+
+# Ignore compressed archive files
+*.rar
+*.zip
+
+# Skip executable and library files
+*.exe
+*.dll
+
+# Make sure .gitignore is tracked in Git
+!.gitignore
+
+# Ignore Visual Studio user-specific settings files
+*.suo
+
+# Exclude directories for IDE-specific settings
+.idea/
+.vscode/
+
+# Additional common exclusions for .NET projects
+*.user
+*.cache
+*.pdb
+*.log
+TestResults/
+*.pidb
+
